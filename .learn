@@ -5,3 +5,5 @@ tags:
 languages:
   - ruby
 resources: []
+
+parent_template: git@github.com:learn-co-curriculum/sinatra-shotgun-server.git
