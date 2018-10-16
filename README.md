@@ -154,4 +154,8 @@ Listening on 127.0.0.1:4200, CTRL+C to stop
 
 You'll notice the server started on port `4200`, which is hopefully unoccupied. You can supply any port number. But it's best to terminate your servers rather than creating hundreds of new ones on different ports.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sinatra-shotgun-server/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sinatra-shotgun-server/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Using the Shotgun Development Server</p>
